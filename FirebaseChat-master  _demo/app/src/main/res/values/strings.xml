@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="classroom">班級</string>
+    <string-array name="ClassName">
+        <item>國企A組</item>
+        <item>國企B組</item>
+        <item>國企C組</item>
+        <item>國企D組</item>
+        <item>國企E組</item>
+        <item>國企F組</item>
+        <item>國企G組</item>
+        <item>國企H組</item>
+    </string-array>
+</resources>
